@@ -1,6 +1,6 @@
 # Wordnik AS3 Client SDK
 
-Please see http://developer.wordnik.com for additional details on this SDK.  This SDK provides access to all of Wordnik's public REST APIs from programs written in 
+Please see http://developer.wordnik.com for additional details on this SDK.  This SDK provides access to all of Wordnik's public REST APIs from programs written in Adobe Flash and Flex.
 
 ## Getting started
 
